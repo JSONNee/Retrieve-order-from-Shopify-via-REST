@@ -1,7 +1,7 @@
 import axios from 'axios'; 
 
 const shopifyAdmin = 'vtldeveloper.myshopify.com';
-const shopifyBooby = '2023-07';
+const shopifyBooby = '2024-10';
 const url = `https://${shopifyAdmin}/admin/api/${shopifyBooby}`;
 const accessToken = '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';
 const headers = {
